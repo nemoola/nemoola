@@ -9,4 +9,4 @@
 
 - 👋 Hi, I’m @nemoola
 - 👀 I’m interested in CTF
-- 🌱 I’m currently learning security and low layer programming
+- 🌱 I’m currently learning security
